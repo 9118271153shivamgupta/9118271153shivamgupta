@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9118271153shivamgupta&label=Profile%20views&color=0e75b6&style=flat" alt="9118271153shivamgupta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=9118271153shivamgupta" alt="9118271153shivamgupta" /></a> </p>
 
 - 🔭 I’m currently working on [OTT Platform](ongoing)
 
